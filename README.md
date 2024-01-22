@@ -1,5 +1,3 @@
-Certainly! Here's a basic README for the Store Inventory Management System program:
-
 ---
 
 # Store Inventory Management System
@@ -63,4 +61,5 @@ Feel free to use, modify, and distribute this program according to the terms of 
 
 ## Author
 [Simon Paul]
+
 ---
